@@ -1,4 +1,4 @@
-# customer_segmentaion_kmean_R
+# Customer_Segmentaion_R
 Applying K Means Clustering to target customer segmentation in R
 
 Data source: https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
